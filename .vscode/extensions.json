@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "arcanis.vscode-zipfs",
+    "dbaeumer.vscode-eslint",
+    "seatonjiang.gitmoji-vscode",
+    "henrynguyen5-vsc.vsc-nvm",
+    "esbenp.prettier-vscode"
+  ]
+}

@@ -1,0 +1,19 @@
+ja:
+  HelloWorld:
+    buttonShowToast: トーストを表示
+    buttonLogin: ログイン
+    buttonLogout: ログアウト
+    descriptionIndex: これは、HelloWorldブロックです。
+    descriptionNavigation: 下記のリンクをクリックして、サブページに移動してみましょう。
+    descriptionShow: 'サブページ{{page}}のHelloWorldブロックです。'
+    descriptionSession: 現在のセッションステータスは下記の通りです：
+    headingToast: トースト
+    headingNavigation: ナビゲーション
+    headingSession: セッションステータス
+    linkToShow: 'サブページ{{page}}'
+    linkBackToIndex: 上に戻る
+    loginSuccessMessage: ログインに成功しました
+    logoutSuccessMessage: ログアウトしました
+    showToastMessage: トーストを表示しました！
+    titleIndex: こんにちは、世界！
+    titleShow: 'サブページ{{page}}'
